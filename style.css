@@ -1,0 +1,62 @@
+.heading{
+    color: white;
+}
+.bord{
+    size: 100px;
+    background-color: rgba(255, 255, 255, 0.204);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    width: max-content;
+    margin: auto;
+    border: 1px black solid;
+    text-shadow: white;
+}
+body{
+    background-color: black;
+    background:url(luke-chesser-eICUFSeirc0-unsplash.jpg); 
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+.button{
+    background-color: #1877f2;
+    color: #ffffff;
+    border: 0;
+    border-radius: 10px;
+    padding: 5px;
+}
+.buttonc{
+    background: #9c19d5;
+    color: #ffffff;
+    border: 0;
+    border-radius:10px ;
+    padding: 5px;
+}
+.pfp{
+   border-radius: 50px;
+   border: 1px solid rgb(0, 0, 0);
+}
+
+
+
+.head{
+    color: white;
+}
+
+.in{
+    border: 0;
+    border-radius: 10px;
+    size: 100;
+    margin: 5px;
+    height: 22px;
+}
+.button:hover{
+    background-color: black ;
+    color: #2277e6;
+}
+.buttonc:hover{
+
+    background-color: black;
+    color: #2277e6;
+
+}
